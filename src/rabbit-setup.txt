@@ -1,0 +1,3 @@
+General notes
+* Install rabbitmq_management plugin
+    rabbitmq-plugins enable rabbitmq_management
